@@ -1,64 +1,77 @@
-eeZee # Hybrid Services Platform
-A hybrid marketplace that combines digital freelance services and offline task-based services into one simple, seamless platform.
-📌 Overview
+"}
+# eeZee – Hybrid Services Platform
 
-This platform bridges the gap between online freelancing and real-world task services.
-Instead of using multiple apps for different needs, users can access everything in one place.
+A hybrid marketplace that combines digital freelance services and offline task-based services into one seamless platform.
 
-Whether you need a logo design, a website, house cleaning, delivery, or repairs — this platform connects you with the right service provider quickly and easily.
-❗ Problem
+---
 
-Users must switch between multiple platforms depending on the type of service.
+## 📌 Overview
+This platform bridges the gap between online freelancing and real-world services.  
+Instead of switching between multiple apps, users can access everything in one place.
 
-Freelancers are often limited to digital services only.
+Whether you need a logo design, website, house cleaning, delivery, or repairs — eeZee connects you with the right service provider quickly and easily.
 
-Offline daily tasks lack a unified local platform.
+---
 
-Many people (students, daily workers, craftsmen, employees) have skills or free time but no organized way to generate flexible income.
-💡 Solution
+## ❗ Problem
+- Users rely on multiple platforms for different types of services  
+- Freelancers are limited to digital work only  
+- No unified platform for offline daily services  
+- Many people have skills or free time but lack structured income opportunities  
 
-A single platform that allows users to:
+---
 
-Request online services (design, development, translation, content writing, etc.)
+## 💡 Solution
+A unified platform that allows users to:
 
-Request offline services (cleaning, maintenance, delivery, transportation, daily tasks, etc.)
+- Request online services (design, development, writing, etc.)  
+- Request offline services (cleaning, maintenance, delivery, etc.)  
+- Offer flexible job opportunities for anyone with skills or available time  
 
-Offer flexible job opportunities for individuals with skills or available time.
-Target Users
-1️⃣ Service Requesters
+---
 
-Anyone who needs fast, reliable services — online or offline.
+## 🎯 Target Users
 
-2️⃣ Service Providers
+### 1️⃣ Service Requesters
+People who need fast and reliable services (online or offline)
 
-Freelancers
+### 2️⃣ Service Providers
+- Freelancers  
+- Students  
+- Daily workers  
+- Craftsmen & technicians  
+- Employees seeking extra income  
 
-Students
+---
 
-Daily workers
+## 🎯 Vision
+To build a simple, accessible ecosystem where:
+- Users can find services 
+- Providers can earn flexibly  
+- Digital and real-world services exist in one place  
 
-Craftsmen & technicians
+---
 
-Employees seeking extra income
+## 🌍 Future Goals
+- Secure payment integration  
+- Rating & review system  
+- Real-time task matching  
+- Location-based services  
+- Expansion to wider markets  
 
-Anyone with a skill or available time
-🎯 Vision
+---
 
-To create a unified, simple, and accessible ecosystem where:
+## 🎨 Figma Design
+👉 https://www.figma.com/design/XTDNesLJLLCTyh59BrC5kE/UI-Design---eeZee?node-id=0-1&t=0z0EBzxHDJSYECHJ-1
 
-Users can find services instantly.
+## 🎨 Figjam Design
+👉 https://www.figma.com/board/nzawgyLzeoTVQk9TDfMSah/eeZee---UX?node-id=0-1&t=RWD9Odr9dG4vVvcU-1
 
-Service providers can access flexible income opportunities.
 
-Both digital and real-world services coexist in one organized marketplace.
-🌍 Future Goals
+---
 
-Secure payment integration
+## 📄 Project Files
+- Team & Tasks PDF:  
+- Presentation: 
 
-Rating & review system
-
-Real-time task matching
-
-Location-based service discovery
-
-Scalable model for local and regional markets
+---
