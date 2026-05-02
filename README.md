@@ -72,5 +72,3 @@ To build a simple, accessible ecosystem where:
 
 ## 📄 Project Files
 👉 [View Team Responsibilities](./Team_Responsibilities.pdf)
-
-- Presentation: 
